@@ -1,0 +1,6 @@
+{
+  "name": "Anime Bihi",
+  "description": "Arabic & English Anime Streaming, Discovery, Tracking, and Universal Web-Reader Scraper Application",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

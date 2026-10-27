@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Anime Bihi</string>
+    <string name="nav_home">الرئيسية</string>
+    <string name="nav_schedule">جدول الحلقات</string>
+    <string name="nav_web_reader">قارئ المواقع</string>
+    <string name="nav_library">مكتبتي</string>
+    <string name="nav_explore">الاستكشاف</string>
+    <string name="watch_now">شاهد الآن</string>
+    <string name="add_to_watchlist">إضافة للمفضلة</string>
+    <string name="search_placeholder">ابحث عن أنمي، استوديو، أو تصنيف...</string>
+    <string name="web_reader_title">قارئ وساحب مواقع الأنمي الذكي</string>
+    <string name="add_site_url_hint">أدخل رابط أي موقع أنمي (https://...)</string>
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Outer Cyber Shield / Kitsune Ears Silhouette -->
+    <path
+        android:fillColor="#7C3AED"
+        android:pathData="M30,26 L44,38 L64,38 L78,26 L74,64 L54,82 L34,64 Z" />
+    <!-- Inner Electric Crimson Play Emblem -->
+    <path
+        android:fillColor="#FF2A54"
+        android:pathData="M45,43 L69,56 L45,69 Z" />
+    <!-- Top Glowing Visor Accent -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M40,40 L68,40 L65,44 L43,44 Z" />
+</vector>
